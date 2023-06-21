@@ -1,4 +1,0 @@
-com.example.unscramble.test.app-androidTest-0 /home/qadri81/AndroidStudioProjects/basic-android-kotlin-compose-training-unscramble/app/build/generated/res/resValues/androidTest/debug
-com.example.unscramble.test.app-mergeDebugAndroidTestResources-1 /home/qadri81/AndroidStudioProjects/basic-android-kotlin-compose-training-unscramble/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.unscramble.test.app-mergeDebugAndroidTestResources-2 /home/qadri81/AndroidStudioProjects/basic-android-kotlin-compose-training-unscramble/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.unscramble.test.app-merged_res-3 /home/qadri81/AndroidStudioProjects/basic-android-kotlin-compose-training-unscramble/app/build/intermediates/merged_res/debugAndroidTest
